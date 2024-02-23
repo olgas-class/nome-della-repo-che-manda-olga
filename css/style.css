@@ -1,0 +1,24 @@
+/* HEADER */
+header {
+  background-color: lightgray;
+  text-align: center;
+  border-bottom: 2px solid orange;
+}
+
+.header-image {
+  width: 100px;
+}
+
+/* MAIN */
+.section-title {
+  color: orange;
+}
+
+.section-subtitle {
+  font-style: italic;
+}
+
+.marked {
+  font-style: italic;
+  background-color: yellow;
+}
